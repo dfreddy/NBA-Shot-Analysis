@@ -1,0 +1,35 @@
+graph clustering
+
+- cluster teams based on shot type, relate that to win percentage
+total FGA & avg distance
+
+- cluster teams based on heigh, relate that to win percentage
+- cluster teams based on age, relate that to win percentage
+- cluster 
+
+
+
+
+http://suruchifialoke.com/2017-06-01-clustering-nba-players/
+
+jetbrains license 19ESVBAL7R
+
+
+--------------------------------------------------------------
+
+shot distance clustering with wins = inconclusive
+
+8 clusters on paint x 3pointers, then average the wins for each cluster
+. blue, with almost no midrange > low wins
+. pink, with massive paint, equally low threes and midrange > low wins
+. yellow and grey, with highest threes averages bellow blue, and paint between around 0.40 and 0.50 > mid tier wins
+. magenta, with middle ground threes and low paint > mid tier wins
+. red, more paint than magenta, meaning less midrange > high wins
+. cyan and green, less threes than red and around the same paint > high wins
+
+conclusion
+. too many three attempts is a detriment to wins
+. too much paint without threes is a detriment to wins
+. ground between 0.25 and 0.30 threes + 0.45 and 0.50 paint contributes to the most wins, meaning midrange occupies around 0.20 and 0.30, the same as threes
+
+do same, but count number of teams per cluster with 40+ wins (meaning they successful)

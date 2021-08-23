@@ -1,0 +1,18 @@
+SCRAPING
+https://gist.github.com/ryanvmenezes/4779d017010a9e3c6b75
+http://savvastjortjoglou.com/nba-shot-sharts.html
+
+CLUSTERING
+https://bigdatascienc.wordpress.com/2017/12/29/k-means-clustering-in-python/
+
+
+
+
+
+references
+1 - BeautifulSoup
+2 - Pandas
+3 - Numpy
+4 - Matplotlib
+5 - Sklearn
+6 - Elbow Method

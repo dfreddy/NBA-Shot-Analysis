@@ -1,0 +1,8 @@
+Team name: ATL
+Average shooting distance: 13.577320028510336
+Wins: 24
+
+Team name: BOS
+Average shooting distance: 13.665605734767023
+Wins: 55
+
